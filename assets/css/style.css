@@ -27,3 +27,14 @@ body {
 p {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
+
+.greenhead {
+
+background-color: #4aaaa5;
+
+}
+
+a {
+    text-decoration-line: none;
+    display: inline-block;
+}
