@@ -1,0 +1,29 @@
+h1, h2, h3, h4 {
+    font-family: 'Georgia', Times, 'Times New Roman', Times, serif, serif;
+}
+
+h2 {
+    color: #4aaaa5
+}
+
+footer {
+    background: #666666;
+    border-top: #4aaaa5 solid 5px;
+}
+
+.white {
+    color: #ffffff
+}
+
+.resize {
+    width: 200px;
+    height: auto;
+}
+
+body {
+    background-image: url("folk-pattern.png");
+}
+
+p {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
