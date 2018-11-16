@@ -96,7 +96,7 @@ margin: auto;
 
 #block {
     background-color: #4aaaa5;
-    width: 225px;
+    width: 275px;
     height: 87px;
     position: relative;
 
@@ -112,6 +112,11 @@ margin: auto;
 .enabled {
     text-align: center;
     color: #ffffff;
+    padding-top: 27px;
+    padding-left: 20px;
+    padding-right: 20px;
+    position: relative;
+    bottom: -16px;
 }
 
 #imgtxtwrap {
