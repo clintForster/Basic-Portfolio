@@ -30,6 +30,19 @@ body {
     padding: 0;
 }
 
+#indeximg {
+
+    width: 200px;
+    height: auto;
+
+}
+
+#indexdiv {
+
+    height: 521px;
+
+}
+
 img {
     position:relative;
     padding-right: 30px;
@@ -88,7 +101,12 @@ input {
 
 textarea {
     width: 100%;
-    height: 100px;
+    height: 200px;
+}
+
+.padding {
+
+    padding-top: 10px;
 }
 
 .inheight {
@@ -100,7 +118,7 @@ textarea {
     height: 352px;
     position: relative;
     left: 29px;
-    line-height: 20px;
+    line-height: 25px;
     margin-top: 30px;
 }
 
@@ -111,6 +129,12 @@ textarea {
     background-color: #4aaaa5;
     border: none;
     height: 30px;
+
+}
+
+#bottomp {
+
+    padding-bottom: 10px;
 
 }
 
@@ -165,6 +189,16 @@ margin: auto;
     height: 87px;
     position: relative;
     left: 280px;
+}
+
+#portfoliodiv {
+    height: 700px;
+}
+
+#contactdiv {
+
+    height: 539px;
+
 }
 
 .greendiv {
@@ -260,7 +294,7 @@ h3 {
 }
 
 #divmv1 {
-    
+    bottom: -244px;
 }
 
 #divmv2 {
@@ -274,9 +308,10 @@ h3 {
 }
 
 #divmv4 {
-    
+    bottom: -317px;
 }
 
 #divmv5 {
-    
+    bottom: -239px;
+    left: 325px;
 }
